@@ -1,0 +1,9 @@
+[submodule "Compiler"]
+	path = Compiler
+	url = https://github.com/Mpaxlamitsounas/GRAD-Compiler
+[submodule "Language"]
+	path = Language
+	url = https://github.com/Mpaxlamitsounas/GRAD-Language
+[submodule "Machine"]
+	path = Machine
+	url = https://github.com/Mpaxlamitsounas/GRAD-Machine
